@@ -42,3 +42,26 @@ Email: aa
 2022/11/16 22:37:23	root has Connected to Database.
 2022/11/16 22:37:23	Verfiy login Username aa in Database.
 2022/11/16 22:37:23	Verfied Login Username aa
+2023/03/22 10:47:41	root has Connected to Database.
+2023/03/22 10:47:49	Looking for Email aa in Database.
+2023/03/22 10:47:49	Looking for Username 123 in Database.
+2023/03/22 10:47:49	Looking for Email aa in Database.
+2023/03/22 10:47:49	Add player into DataBase 
+ID: 3 
+Username: 123 
+Email: aa
+2023/03/22 10:47:52	Verfiy login Username 123 in Database.
+2023/03/22 10:47:52	Verfied Login Username 123
+2023/03/22 10:48:22	root has Connected to Database.
+2023/03/22 10:48:22	Verfiy login Username 123 in Database.
+2023/03/22 10:48:22	Verfied Login Username 123
+2023/03/22 10:48:41	root has Connected to Database.
+2023/03/22 10:48:45	Looking for Email arf in Database.
+2023/03/22 10:48:45	Looking for Username 34 in Database.
+2023/03/22 10:48:45	Looking for Email arf in Database.
+2023/03/22 10:48:45	Add player into DataBase 
+ID: 4 
+Username: 34 
+Email: arf
+2023/03/22 10:48:49	Verfiy login Username 34 in Database.
+2023/03/22 10:48:49	Verfied Login Username 34

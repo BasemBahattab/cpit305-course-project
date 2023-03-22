@@ -38,3 +38,13 @@
 2022/11/16 22:36:10	java.net.SocketException: Connection reset
 2022/11/16 22:37:06	Unable to connect to the address: localhost:1999 | Starting a server
 2022/11/16 22:37:38	java.net.SocketException: Connection reset
+2023/02/25 18:14:40	java.sql.SQLException: No suitable driver found for jdbc:mariadb://localhost:3306/tictactoc
+2023/02/25 18:15:15	java.sql.SQLException: No suitable driver found for jdbc:mariadb://localhost:3306/tictactoc
+2023/03/22 09:24:21	java.sql.SQLException: No suitable driver found for jdbc:mariadb://localhost:3306/tictactoc
+2023/03/22 10:48:33	Unable to connect to the address: localhost:2222 | Starting a server
+2023/03/22 10:49:08	java.net.SocketException: Connection reset
+2023/03/22 10:49:09	java.net.SocketException: Connection reset by peer
+2023/03/22 10:49:09	java.net.SocketException: Connection reset
+2023/03/22 10:49:09	java.net.SocketException: Connection reset by peer
+2023/03/22 10:49:09	java.net.SocketException: Connection reset by peer
+2023/03/22 10:49:10	java.net.SocketException: Connection reset

@@ -52,3 +52,39 @@
 2022/11/16 22:37:36	O Wins
 2022/11/16 22:37:36	Hide Button 3x1
 2022/11/16 22:37:36	Draw Sign in Label 7
+2023/03/22 10:48:33	Initializing Game Object.
+2023/03/22 10:48:56	Initializing Game Object.
+2023/03/22 10:48:57	BufferReader Has been defined.
+2023/03/22 10:48:58	Played in x: 0   y: 0
+
+2023/03/22 10:48:58	From Client: x: 0   y: 0
+
+2023/03/22 10:48:58	Hide Button 1x1
+2023/03/22 10:48:58	Draw Sign in Label 1
+2023/03/22 10:48:59	BufferReader Has been defined.
+2023/03/22 10:48:59	Played in x: 0   y: 1
+
+2023/03/22 10:49:00	Played in x: 1   y: 0
+
+2023/03/22 10:49:00	From Client: x: 1   y: 0
+
+2023/03/22 10:49:00	Hide Button 2x1
+2023/03/22 10:49:00	Draw Sign in Label 4
+2023/03/22 10:49:00	From Client: x: 0   y: 1
+
+2023/03/22 10:49:00	Hide Button 1x2
+2023/03/22 10:49:00	Draw Sign in Label 2
+2023/03/22 10:49:03	Played in x: 1   y: 1
+
+2023/03/22 10:49:03	From Client: x: 1   y: 1
+
+2023/03/22 10:49:03	Hide Button 2x2
+2023/03/22 10:49:03	Draw Sign in Label 5
+2023/03/22 10:49:05	Played in x: 0   y: 2
+
+2023/03/22 10:49:05	From Client: x: 0   y: 2
+
+2023/03/22 10:49:05	X Wins
+2023/03/22 10:49:05	Hide Button 1x3
+2023/03/22 10:49:05	Draw Sign in Label 3
+2023/03/22 10:49:09	O Wins
